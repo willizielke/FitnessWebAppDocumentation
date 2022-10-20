@@ -1,0 +1,2 @@
+# FitnessWebAppDocumentation
+Documentation of RuleTheGym
