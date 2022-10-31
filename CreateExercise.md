@@ -1,6 +1,6 @@
 # 1 Use-Case Name
 
-Create Workout
+Create Exercise
 
 ## 1.1 Brief Description
 
@@ -20,7 +20,9 @@ The user has to enter all the information about the exercise. For details see 2.
 - User clicks safe button
 
 ### 2.1.1 Activity Diagram
+
 ![test](Create_Exercise.drawio.svg)
+
 ### 2.1.2 Mock-up
 
 
@@ -67,7 +69,7 @@ Feature: new exercise
 # 4 Preconditions
 
 The user has to be logged in to the system.
-The user has to have navigated to the Training site
+The user has to have navigated to the Exercises site
 
 # 5 Postconditions
 
