@@ -27,7 +27,7 @@ The user has to enter all the information about the workout. For details see 2.1
 - User clicks safe button
 
 ### 2.1.1 Activity Diagram
-![test](Create_workout.drawio.svg)
+![test](Create_Workout.drawio.svg)
 ### 2.1.2 Mock-up
 
 
