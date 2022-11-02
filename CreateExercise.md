@@ -25,7 +25,7 @@ The user has to enter all the information about the exercise. For details see 2.
 
 ### 2.1.2 Mock-up
 
-
+![Create Workout](MockUpCreateExercise.drawio.svg)
 
 ### 2.1.3 Narrative
 
