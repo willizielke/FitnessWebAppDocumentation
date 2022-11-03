@@ -107,7 +107,7 @@ The user can create and delete training plans or choose one of the premade plans
 UC Definitions:
 | Use	                | UC Definition		    |
 |-----------------------|-----------------------|
-| Create        		| [Create Workout](https://github.com/willizielke/FitnessWebAppDocumentation/blob/main/CreateWorkout.md)|
+| Create        		| [Create Workoutplan](https://github.com/willizielke/FitnessWebAppDocumentation/blob/main/CreateWorkout.md)|
 | Delete	            | tbd		            |
 | Premade plans    	    | tbd		            |
 | Gym, Calesthenics, Home workout   | tbd		|
@@ -118,7 +118,7 @@ The user can start, stop and pause an exercise.
 UC Definitions:
 | Use	                | UC Definition		    |
 |-----------------------|-----------------------|
-| Start, Stop, Pause    | [Start Workout](https://github.com/willizielke/FitnessWebAppDocumentation/blob/main/CreateWorkout.md)|
+| Start, Stop, Pause    | [Start Exercise](https://github.com/willizielke/FitnessWebAppDocumentation/blob/main/StartExercise.md)|
 
 #### 3.1 d) Excercices
 The user can create, delete and edit exercises.
@@ -126,7 +126,7 @@ The user can create, delete and edit exercises.
 UC Definitions:
 | Use	                | UC Definition		    |
 |-----------------------|-----------------------|
-| Add Excercise 		| [Create Exercise](https://github.com/willizielke/FitnessWebAppDocumentation/blob/main/Start_Exercise.drawio.svg)|
+| Add Excercise 		| [Create Exercise](https://github.com/willizielke/FitnessWebAppDocumentation/blob/main/CreateExercise.md)|
 | Delete Excercise      | tbd		            |
 | Edit Exercise   	    | tbd		            |
 | Premade Excercise     | tbd		            |
