@@ -30,7 +30,7 @@ If the user stops the excercise, the current workoutplan will be shown.
 
 ### 2.1.3 Narrative
 
-```gherkin
+<!---```gherkin
 Feature: start exercise
 
   As a signed in user
@@ -54,7 +54,7 @@ Feature: start exercise
     When I press the "Stop" button
     Then I am on the "Workoutplan" page
     And I see the current workoutplan
-```
+```-->
 
 ## 2.2 Alternative Flows
 
