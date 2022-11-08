@@ -22,11 +22,11 @@ If the user stops the excercise, the current workoutplan will be shown.
 
 ### 2.1.1 Activity Diagram
 
-![Activity Diagram "Start Workout"](Start_Exercise.drawio.svg)
+![Activity Diagram "Start Workout"](../ActivityDiagrams/Start_Exercise.drawio.svg)
 
 ### 2.1.2 Mock-up
 
-![Mock-up "Start Workout"](MockUpStartExercise.drawio.svg)
+![Mock-up "Start Workout"](../MockUps/MockUpStartExercise.drawio.svg)
 
 ### 2.1.3 Narrative
 
