@@ -34,7 +34,7 @@ The user has to enter all the information about the workout. For details see 2.1
 
 
 ### 2.1.3 Narrative
-
+[CreateWorkout.feature](https://github.com/tthomasb/FitnessWebApp/blob/main/Rule-the-Gym/e2e/src/specs/CreateWorkout.feature)
 <!-- ```gherkin
 Feature: new operation
 
