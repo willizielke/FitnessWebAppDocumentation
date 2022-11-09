@@ -29,8 +29,8 @@ If the user stops the excercise, the current workoutplan will be shown.
 ![Mock-up "Start Workout"](../MockUps/MockUpStartExercise.drawio.svg)
 
 ### 2.1.3 Narrative
-
-
+[StartExercise.feature](https://github.com/tthomasb/FitnessWebApp/blob/main/Rule-the-Gym/e2e/src/specs/StartExercise.feature)
+<!--
 ```gherkin
 Feature: Start Exercise
 
@@ -95,8 +95,7 @@ Feature: Start Exercise
     Then the exercise window is closed
     And I am on the "Workoutplan" page
     And the current workoutplan is visible
-```
-
+```-->
 ## 2.2 Alternative Flows
 
 (n/a)
