@@ -52,7 +52,7 @@ This document describes the development process of the project. Rule the Gym all
 | -------------------------------------------------------------------|:----------:| ------------------------- |
 | [Rule the Gym Blog](https://rulethegym597135702.wordpress.com/) | 20.10.2022 | Rule the Gym |
 | [GitHub](https://github.com/tthomasb/FitnessWebApp) | 20.10.2022 | Rule the Gym |
-| [Use Case Diagram](https://github.com/willizielke/FitnessWebAppDocumentation/blob/main/Overall_Use_Case_Diagram.drawio.svg) | 20.10.2022 | Rule the Gym |
+| [Use Case Diagram](https://github.com/willizielke/FitnessWebAppDocumentation/blob/main/UseCases/Overall_Use_Case_Diagram.drawio.svg) | 20.10.2022 | Rule the Gym |
 
 
 ### 1.5 Overview
@@ -64,7 +64,7 @@ The second chapter gives an overview of the vision and the UCD (overall use case
 For information about our vision for this web application, see [our first blog post](https://rulethegym597135702.wordpress.com/2022/10/10/week-1/).
 
 ### 2.2 Overall Use Case Diagram
-![UCD](Overall_Use_Case_Diagram.drawio.svg)
+![UCD](../UseCases/Overall_Use_Case_Diagram.drawio.svg)
 
 ### 2.3 Technology Stack
 The technolgies we use are:
@@ -107,7 +107,7 @@ The user can create and delete training plans or choose one of the premade plans
 UC Definitions:
 | Use	                | UC Definition		    |
 |-----------------------|-----------------------|
-| Create        		| [Create Workout](https://github.com/willizielke/FitnessWebAppDocumentation/blob/main/CreateWorkout.md)|
+| Create        		| [Create Workoutplan](https://github.com/willizielke/FitnessWebAppDocumentation/blob/main/UseCases/CreateWorkout.md)|
 | Delete	            | tbd		            |
 | Premade plans    	    | tbd		            |
 | Gym, Calesthenics, Home workout   | tbd		|
@@ -118,7 +118,7 @@ The user can start, stop and pause an exercise.
 UC Definitions:
 | Use	                | UC Definition		    |
 |-----------------------|-----------------------|
-| Start, Stop, Pause    | [Start Workout](https://github.com/willizielke/FitnessWebAppDocumentation/blob/main/CreateWorkout.md)|
+| Start, Stop, Pause    | [Start Exercise](https://github.com/willizielke/FitnessWebAppDocumentation/blob/main/UseCases/StartExercise.md)|
 
 #### 3.1 d) Excercices
 The user can create, delete and edit exercises.
@@ -126,7 +126,7 @@ The user can create, delete and edit exercises.
 UC Definitions:
 | Use	                | UC Definition		    |
 |-----------------------|-----------------------|
-| Add Excercise 		| [Create Exercise](https://github.com/willizielke/FitnessWebAppDocumentation/blob/main/Start_Exercise.drawio.svg)|
+| Add Excercise 		| [Create Exercise](https://github.com/willizielke/FitnessWebAppDocumentation/blob/main/UseCases/CreateExercise.md)|
 | Delete Excercise      | tbd		            |
 | Edit Exercise   	    | tbd		            |
 | Premade Excercise     | tbd		            |
