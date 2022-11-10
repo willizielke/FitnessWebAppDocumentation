@@ -21,14 +21,16 @@ The user has to enter all the information about the exercise. For details see 2.
 
 ### 2.1.1 Activity Diagram
 
-![test](Create_Exercise.drawio.svg)
+![Create Exercise](../ActivityDiagrams/Create_Exercise.drawio.svg)
 
 ### 2.1.2 Mock-up
 
-![Create Workout](MockUpCreateExercise.drawio.svg)
+![Create Exercise](../MockUps/MockUpCreateExercise.drawio.svg)
 
 ### 2.1.3 Narrative
 
+[CreateExercise.feature](https://github.com/tthomasb/FitnessWebApp/blob/main/Rule-the-Gym/e2e/src/specs/CreateExercise.feature)
+<!--
 ```gherkin
 Feature: new exercise
 
@@ -57,7 +59,7 @@ Feature: new exercise
     Then I am on the "Create Exercise" View
     And the false field is highlighted in red
 ```
-
+-->
 ## 2.2 Alternative Flows
 
 (n/a)

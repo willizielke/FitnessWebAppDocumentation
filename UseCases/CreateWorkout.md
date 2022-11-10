@@ -27,11 +27,9 @@ The user has to enter all the information about the workout. For details see 2.1
 - User clicks safe button
 
 ### 2.1.1 Activity Diagram
-![test](Create_Workout.drawio.svg)
+![Create Workout](../ActivityDiagrams/Create_Workout.drawio.svg)
 ### 2.1.2 Mock-up
-![Create Workout](MockUpCreateWorkout.drawio.svg)
-
-
+![Create Workout](../MockUps/MockUpCreateWorkout.drawio.svg)
 
 ### 2.1.3 Narrative
 [CreateWorkout.feature](https://github.com/tthomasb/FitnessWebApp/blob/main/Rule-the-Gym/e2e/src/specs/CreateWorkout.feature)
