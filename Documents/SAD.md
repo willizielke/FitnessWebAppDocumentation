@@ -60,11 +60,10 @@ as the Logical, Deployment, Implementation and Data Views.
 ## 2. Architectural Representation
 We are trying to implement according to the MVC pattern:
 
-![MVC structure](../mvc_structure.svg)
+![MVC structure](../MVC_STRUCTURE.drawio.svg)
 
 ## 3. Architectural Goals and Constraints
-
-TODO
+We decided to use a combination of angular and node.js as our Framework vor MVC, while angular alredy implements an frontend MVC with its components(html/css=view, ts=controller, model=model) we further extend this with a node.js backend providing access to our database. The database follows the schema of the angular models and provides their data.
 
 ## 4. Use-Case View
 Our overall UC diagram:
@@ -76,20 +75,20 @@ Our overall UC diagram:
 ### 5.1 Overview
 The following image shows a UML diagram of our project whose elements are categorized by model, view and controller.
 
-![MVC class diagram](../mvc_class_diagram.svg)
+![MVC class diagram]()
 
 ### 5.2 Architecturally Significant Design Packages
-
-TODO
+We are Using [Material Design](https://m3.material.io) for our frontend
 
 ## 6. Process View
 n/a
 
 ## 7. Deployment View
+This is our deployment view
+![deployment View](../Deployment_View.drawio.svg)
 
-tbd
 
-## 8. Implemantation View
+## 8. Implementation View
 
 n/a
 
