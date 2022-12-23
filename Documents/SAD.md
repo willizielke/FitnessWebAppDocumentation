@@ -75,7 +75,7 @@ Our overall UC diagram:
 ### 5.1 Overview
 The following image shows a UML diagram of our project whose elements are categorized by model, view and controller.
 
-![MVC class diagram]()
+![MVC structure](../MVC_STRUCTURE.drawio.svg)
 
 ### 5.2 Architecturally Significant Design Packages
 We are Using [Material Design](https://m3.material.io) for our frontend
