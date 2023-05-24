@@ -80,6 +80,8 @@ The following image shows a UML diagram of our project whose elements are catego
 ### 5.2 Architecturally Significant Design Packages
 We are Using [Material Design](https://m3.material.io) for our frontend
 
+Furthermore we used the Adapter Pattern to adapt a database query to an interface in the frontend. The exact procedure can be seen in the following graphic.
+![adapterpatern](../AdapterPattern.drawio.svg)
 ## 6. Process View
 n/a
 
