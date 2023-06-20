@@ -21,11 +21,11 @@ Every normal user can calculate his BMI and Caloric Intake based on his gender, 
 
 ### 2.1.1 Activity Diagram
 
-![Create Exercise](../ActivityDiagrams/Calculate_Bmi_And_Calories.drawio.svg)
+![Calculate BMI and Calories](../ActivityDiagrams/Calculate_Bmi_And_Calories.drawio.svg)
 
 ### 2.1.2 Mock-up
 
-![Create Exercise](../MockUps/MockUpCalculateBMIAndCalories.drawio.svg)
+![Calculate BMI and Calories](../MockUps/MockUpCalculateBMIAndCalories.drawio.svg)
 
 ### 2.1.3 Narrative
 
