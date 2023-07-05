@@ -50,9 +50,9 @@ This SAD describes the software architecture of the Rule-the-Gym project. Illust
 | [SRS](./SRS.md)                      		                                 | 20.10.2022 | Rule the Gym |
 | [UC1 Create a exercise](../UseCases/CreateExercise.md)           		     | 01.11.2022 | Rule the Gym |
 | [UC2 Create a workout ](../UseCases/CreateWorkout.md)           		     | 01.11.2022 | Rule the Gym |
-| [UC3 Start a exercise ](../UseCases/StartExercise.md)           		     | 17.04.2022 | Rule the Gym |
+| [UC3 Start a exercise ](../UseCases/StartExercise.md)           		     | 01.11.2022 | Rule the Gym |
 [UC4 Edit a exercise ](../UseCases/EditExercise.md)           		     | 17.04.2022 | Rule the Gym |
-[UC5 Calculate BMI and Calories ](../UseCases/CalculateBMIAndCalories.md)           		     | 01.11.2022 | Rule the Gym |
+[UC5 Calculate BMI and Calories ](../UseCases/CalculateBMIAndCalories.md)           		     | 17.04.2022 | Rule the Gym |
 
 
 ### 1.5 Overview
