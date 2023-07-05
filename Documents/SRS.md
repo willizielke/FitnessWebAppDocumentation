@@ -128,7 +128,7 @@ UC Definitions:
 |-----------------------|-----------------------|
 | Add Excercise 		| [Create Exercise](https://github.com/willizielke/FitnessWebAppDocumentation/blob/main/UseCases/CreateExercise.md)|
 | Delete Excercise      | tbd		            |
-| Edit Exercise   	    | tbd		            |
+| Edit Exercise   	    | [Edit Exercise](https://github.com/willizielke/FitnessWebAppDocumentation/blob/main/UseCases/EditExercise.md)|		            |
 | Premade Excercise     | tbd		            |
 #### 3.1 e) Food Tracker
 The user can track their food.
@@ -146,7 +146,7 @@ The User is able to calculate his BMI(Body-Mass-Index).
 UC Definitions:
 | Use	                | UC Definition		    |
 |-----------------------|-----------------------|
-| Calculate BMI & calories		| tbd  		            |
+| Calculate BMI & calories		| [Calculate BMI and Calories](https://github.com/willizielke/FitnessWebAppDocumentation/blob/main/UseCases/CalculateBMIAndCalories.md)|  		            |
 
 #### 3.1 g) Workout statistics
 User can see his progress in useful charts.
